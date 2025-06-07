@@ -1,6 +1,6 @@
 <h2 align="center">○• 👋 Welcome! 👋 •○</h2>
 
-> **Thanks for using T.F.A's Bot Projects!** This project is very special and can secure your Discord Server / Community with the Best Moderation commands and the System Auto-Moderation. (***Anti-Swear is available only for now.***)
+> **Thanks for using My Project!** This project is very special and can secure your Discord Server / Community with the Best Moderation commands and the System Auto-Moderation. 
 
 <h2 align="center">○• ⭐ Bot Features! ⭐ •○</h2>
 
@@ -14,7 +14,7 @@
 | Anti-Link            |     ❌       |
 | Best Mod Commands    |     ✅       |
 | Auto-Mod             |     ✅       |
-| Custom Prefix        |     ❌       |
+| Custom Prefix        |     ✅       |
 | Permanent Database   |     ✅       |
 | Welcomer             |     ✅       |
 | Logging              |     ✅       |
@@ -36,18 +36,5 @@
 
 <h2 align="center">○• 💻 Credits 💻 •○</h2>
 
-> - [x] Credits:
-> 
-> `Prefix commands Handler`: [Reconlx](https://www.youtube.com/c/reconlxx)
-> 
-> `Dynamic help command (V3.0)`: [Tech Boy](https://www.youtube.com/c/TechBoy2)
->
-> `Auto Moderation system`: [C-h-a-r Codes](https://www.youtube.com/c/Char27)
->
-> `Dropdown roles collector system:` [Ice makes stuff](https://www.youtube.com/c/IceMakesStuff)
->
-> `Ranking system`: [TN Hazem](https://www.youtube.com/c/TNhazem)
-> 
-> `Slash commands, Systems, Databases and the rest of the commands`: [T.F.A 7524](https://www.youtube.com/c/TFA7524)
 ###### Copyright 2022 ©"# RP-Template" 
 "# RP-Template" 
