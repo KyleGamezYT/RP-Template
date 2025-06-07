@@ -1,0 +1,74 @@
+{
+  
+  "prefix": ">",
+  
+  "users": {
+    "client_id": "954734383582023811",
+    "owner": "954734383582023811",
+    "owner_tag": "mxtorkyle"
+  },
+  
+  "guilds": {
+    "guild_id": "1007121969453477959"
+  },
+
+  "emojis": {
+    "success": "<:success_3:948948438601592862>",
+    "wrong": "<:error_4:948948619111854080>",
+    "warning": "<:warning_icon:928019521661456414>",
+    "others": {
+      "database": "<a:Database_Secure:970989694441640036>",
+      "locked": "<a:Locked:971168744279781376>",
+      "unlocked": "<a:Unlocked:971168987109019658>"
+    }
+  },
+
+  "messages": {
+    
+    "embeds": {
+      "colors": {
+        "yes": "#42f58a",
+        "no": "#f73e3b",
+        "error": "#dafa28"
+      }
+      
+    }
+  },
+  
+  "systems": {
+    
+    "suggestion": {
+      "reacts": {
+        "reaction_1": "948948438601592862",
+        "reaction_2": "948948619111854080"     
+      }   
+    },
+    
+    "automod": {
+      "mute_time": "30m"
+    },
+    
+    "command_handler": {
+      "reply_when_command_is_not_valid": true
+    },
+
+    "commands": {
+      "help": {
+        "buttons": {
+          "invite": "https://lmgtfy.app/?q=npm",
+          "support_server": "https://google.com"
+        }
+      }
+    },
+    
+    "ranking_system": {
+      
+      "progress_bar": {
+        "color": "cyan"
+      }
+      
+    }
+    
+  } 
+  
+}
